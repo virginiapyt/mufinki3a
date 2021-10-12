@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mufinki 3a</string>
+    <string name="wybierz_deser">Wybierz deser</string>
+    <array name="type">
+        <item>napoje</item>
+        <item>desery</item>
+        <item>ciasta</item>
+        <item>ciastka</item>
+    </array>
+</resources>
